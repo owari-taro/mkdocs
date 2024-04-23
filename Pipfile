@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+babel = "*"
+beautifulsoup4 = "*"
+certifi = "*"
+charset-normalizer = "*"
+click = "*"
+colorama = "*"
+ghp-import = "*"
+gitdb = "*"
+gitpython = "*"
+griffe = "*"
+idna = "*"
+jinja2 = "*"
+markdown = "*"
+mkdocs-material = "*"
+mkdocstrings = "*"
+mkdocs-open-in-new-tab = "*"
+mkdocs-enumerate-headings-plugin = "*"
+mkdocs-git-revision-date-localized-plugin = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
